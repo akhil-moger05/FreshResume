@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000
+Open https://freshresume-3d6s.onrender.com
 
 ### Scripts
 
