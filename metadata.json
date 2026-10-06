@@ -1,0 +1,6 @@
+{
+  "name": "FreshResume - Free Resume Maker for Indian Freshers",
+  "description": "Create free ATS-friendly resumes for Indian freshers. Build, customize templates, and download your resume in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
