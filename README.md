@@ -3,7 +3,7 @@
 **Free ATS-friendly resume maker for Indian freshers.**
 Fill a simple form, watch your resume update live, and download a clean PDF in minutes.
 
-Live site: https://YOUR-SITE.onrender.com
+Live site: https://freshresume-3d6s.onrender.com
 
 <!-- Add a screenshot after your site is live:
 ![FreshResume builder](docs/screenshot-builder.png)
